@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Disruption: Emtechs]]></title>
         <description><![CDATA[Disruption: Emtechs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/disruption-emtechs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:29:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 07:38:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/disruption-emtechs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d26da96a-0276-4ef0-96c1-0ea60db79046.jpg">]]></description>
+            <link>https://thegrid.ai/disruption-emtechs/2ee14454-b87d-4648-98fe-afaf90be4172/index.html</link>
+            <guid isPermaLink="false">2ee14454-b87d-4648-98fe-afaf90be4172</guid>
+            <pubDate>Fri, 19 Feb 2016 07:38:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/087778a9-23cd-4687-8bda-5f475b13af49.jpg">]]></description>
-            <link>undefinedb442326e-c8da-444a-bebc-ae28fb877a27/index.html</link>
+            <link>https://thegrid.ai/disruption-emtechs/b442326e-c8da-444a-bebc-ae28fb877a27/index.html</link>
             <guid isPermaLink="false">b442326e-c8da-444a-bebc-ae28fb877a27</guid>
             <pubDate>Wed, 03 Feb 2016 17:29:11 GMT</pubDate>
         </item>
